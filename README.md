@@ -1,6 +1,6 @@
 # Hi, I’m @danmolloy
-I work in symphony orchestras as a double bassist, although that isn't keeping me busy at the moment. 
-I'm currently enjoying learning to code in my free time. 
+I work in symphony orchestras as a double bassist, although that isn't keeping me busy these days. 
+I'm currently enjoying spending my time learning to code. 
 
 <!---
 danmolloy/danmolloy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
