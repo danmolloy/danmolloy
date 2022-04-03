@@ -1,6 +1,6 @@
 # Hi, I’m @danmolloy
 
-I enjoy challenging myself and learning new skills. I'm here to share my projects and get involved with others - feel free to get in touch! 
+I work as an orchestral musician but also have an apetite for writing code. I use this space to connect with creative people who are building useful things, share my own projects, track my journey, and collaborate with others.
 
 <!---
 danmolloy/danmolloy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
