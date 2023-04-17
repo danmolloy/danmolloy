@@ -1,6 +1,6 @@
 # Hi, I’m @danmolloy
 
-I work as an orchestral musician but also enjoy writing code. I use this space to connect with others, see what people are making, share my own projects, and collaborate.
+I like to create web apps, mostly using React. Check out my [Portfolio](https://portfolio-site-phi-lyart.vercel.app/).
 
 <!---
 danmolloy/danmolloy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
