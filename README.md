@@ -1,6 +1,6 @@
 # Hi, I’m @danmolloy
 
-I like to create web apps, mostly using React. Check out my [Portfolio](https://portfolio-site-phi-lyart.vercel.app/).
+I like to create apps, mostly using React. Check out my [Portfolio](https://portfolio-site-phi-lyart.vercel.app/).
 
 <!---
 danmolloy/danmolloy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
