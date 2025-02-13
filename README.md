@@ -2,10 +2,8 @@
 <h3 align="center">An Australian in London</h3>
 
 - 🔭 I’m currently working on [GigFix](https://github.com/danmolloy/fixer)
-
-- 🌱 I’m currently learning **C# and .Net**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-site-phi-lyart.vercel.app/](https://portfolio-site-phi-lyart.vercel.app/)
+<!-- - 🌱 I’m currently learning **C# and .Net** -->
+<!-- - 👨‍💻 All of my projects are available at [https://portfolio-site-phi-lyart.vercel.app/](https://portfolio-site-phi-lyart.vercel.app/) -->
 
 - 📫 How to reach me **danmolloy91@gmail.com**
 
